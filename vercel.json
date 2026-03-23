@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/login/admin",
+      "destination": "https://drive.google.com/uc?export=download&id=1C9kEfsT_x8iExZixxxWeZR4Ai7gX1pHu",
+      "permanent": true
+    }
+  ]
+}
